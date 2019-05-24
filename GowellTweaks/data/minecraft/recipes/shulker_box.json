@@ -1,0 +1,21 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "///",
+        "/L/",
+        "///"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:ender_eye"
+        },
+        "L": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_box",
+        "count": 1
+    }
+}
