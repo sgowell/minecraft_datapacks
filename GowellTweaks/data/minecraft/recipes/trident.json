@@ -7,16 +7,13 @@
     ],
     "key": {
         "I": {
-            "item": "iron_ingot",
-            "count": 5
+            "item": "iron_block"
         },
         "D": {
-            "item": "minecraft:diamond",
-            "count": 4
+            "item": "minecraft:diamond_block"
         },
         "E": {
-            "item": "minecraft:emerald",
-            "count": 2
+            "item": "minecraft:emerald_emerald"
         }
     },
     "result": {

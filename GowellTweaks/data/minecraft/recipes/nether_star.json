@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WWW",
+        "SSS",
+        "CSB"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:soul_sand"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "C": {
+            "item": "minecraft:diamond_sword"
+        },
+        "B": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}
