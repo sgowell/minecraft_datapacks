@@ -1,0 +1,36 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "DLR",
+        "GCE",
+        "MMM"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "C": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "M": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
