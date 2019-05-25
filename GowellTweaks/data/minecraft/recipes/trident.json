@@ -1,19 +1,19 @@
 {
     "type": "crafting_shaped",
     "pattern": [
-        "DED",
-        " I ",
-        " I "
+        "CSC",
+        " D ",
+        " D "
     ],
     "key": {
-        "I": {
-            "item": "iron_block"
+        "S": {
+            "item": "prismarine_shard"
+        },
+        "C": {
+            "item": "minecraft:prismarine_crystals"
         },
         "D": {
-            "item": "minecraft:diamond_block"
-        },
-        "E": {
-            "item": "minecraft:emerald_emerald"
+            "item": "minecraft:dark_prismarine"
         }
     },
     "result": {
