@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:potion"
+  },
+  "result": "minecraft:experience_bottle",
+  "experience": 100,
+  "cookingtime": 50
+}
